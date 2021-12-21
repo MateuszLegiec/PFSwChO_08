@@ -80,7 +80,7 @@ class Fibo extends React.Component {
                     <input type="number" value={this.state.value} onChange={this.handleChange}/>
                     <button onClick={this.handleSubmit}>Calculate</button>
                 </div>
-                { this.state.calculations.map(it => <div>Fibonacci sequence for value {it.key} equals {it.value}</div> ) }
+                { this.state.calculations.map(it => <div>Fibonacci sequence for value {it.key} equals {it.value}.</div> ) }
             </div>
         );
     }
