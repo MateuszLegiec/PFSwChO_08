@@ -12,4 +12,4 @@ Runs the app in the production mode via Nginx multi-stage building.
 
 ### `docker compose -f docker-compose-dev.yml up`
 
-Runs the app in the development mode with tests via `npm start` command.
+Runs the app in the development mode with tests via `npm run start` & `npm run start` commands.
