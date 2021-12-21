@@ -32,7 +32,7 @@ export default function App() {
 function Home() {
     return (
         <div>
-            <h2>PFSwChO – zadanie nr 1</h2>
+            <h2>PFSwChO – Lab 8</h2>
             <h3>Autor: Mateusz Legieć</h3>
             <h3>Grupa: 2.2.3</h3>
         </div>
